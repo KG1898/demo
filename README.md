@@ -1,1 +1,1 @@
-# demo
+# Teambition plugin demo
